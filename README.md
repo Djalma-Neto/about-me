@@ -83,7 +83,7 @@ Sistema desenvolvido para o 17º Batalhão da Polícia Militar da Bahia.
 ## 📫 Contato
 
 - Email: djalma7743@gmail.com  
-- LinkedIn: (coloque aqui)  
+- LinkedIn: www.linkedin.com/in/djalma-santana-malta-neto-761627197  
 
 ---
 
